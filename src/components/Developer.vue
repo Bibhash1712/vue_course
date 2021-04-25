@@ -47,7 +47,6 @@ export default {
                 this.$emit('employeeAdded', this.newEmp);
                 this.newEmp = '';
             }
-            console.log('developer Added');
             this.empAdd = ! this.empAdd;
         }
     }
