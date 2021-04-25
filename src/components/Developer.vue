@@ -1,6 +1,5 @@
 <template >
 <div>
-    <!-- console.log('Developer div'); -->
     <h5>Developers</h5>
     <div v-bind:key="devList.id" v-for="devList in dev">
         
@@ -47,7 +46,6 @@ export default {
                 this.$emit('employeeAdded', this.newEmp);
                 this.newEmp = '';
             }
-            console.log('developer Added');
             this.empAdd = ! this.empAdd;
         }
     }
