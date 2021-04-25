@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <Company msg="Welcome to Rakuten India!"/> 
-     <!-- <img alt="Vue logo" src="favicon.io">  -->
+    Welcome to App Template...
+    <Company msg="Welcome to Bibhash India!"/> 
     <div  >  
       <table>
         <tr>

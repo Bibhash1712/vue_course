@@ -46,7 +46,6 @@ export default {
                 this.$emit('testerAdded', this.newTes);
                 this.newTes = '';
             }
-            // console.log('tester Added');
             this.tesAdd = ! this.tesAdd;
         }
     }

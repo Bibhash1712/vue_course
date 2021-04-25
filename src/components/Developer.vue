@@ -1,6 +1,5 @@
 <template >
 <div>
-    <!-- console.log('Developer div'); -->
     <h5>Developers</h5>
     <div v-bind:key="devList.id" v-for="devList in dev">
         

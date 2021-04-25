@@ -18,7 +18,6 @@ export default {
     methods: {
         markComplete() {
             this.testList.complete = !this.testList.complete;
-            // console.log(123);
         }
     }
 }

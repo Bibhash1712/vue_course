@@ -1,7 +1,7 @@
 <template>
     
         <div class="first">
-            <h1>Rakuten Resources</h1>
+            <h1>Bibhash Resources</h1>
             {{msg}}
         </div>
 
@@ -18,7 +18,6 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
   
 .first {
