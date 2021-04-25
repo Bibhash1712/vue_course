@@ -1,7 +1,7 @@
 <template>
     
         <div class="first">
-            <h1>Rakuten Resources</h1>
+            <h1>Bibhash Resources</h1>
             {{msg}}
         </div>
 
