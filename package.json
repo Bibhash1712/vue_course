@@ -2,7 +2,7 @@
   "name": "vue_course",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Bibhash1712/vue_course",
+  "homepage": "https://bibhash1712.github.io/vue_course",
   "scripts": {
     "start": "vue-cli-service serve",
     "build": "vue-cli-service build",
